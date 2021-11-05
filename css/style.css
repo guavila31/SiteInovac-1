@@ -350,7 +350,7 @@ h1, h2, h3, h4, h5, h6 {
 .fh5co-project .project-grid {
   width: 50%;
   height: 400px;
-  background-size: cover;
+  background-size: 100%;
   background-position: center center;
   position: relative;
   margin-bottom: 30px;
@@ -358,13 +358,19 @@ h1, h2, h3, h4, h5, h6 {
 }
 @media screen and (max-width: 768px) {
   .fh5co-project .project-grid {
-    height: 400px;
+    display: table-row-group;
+    height: auto;
+   
   }
 
   #conteudo{
-    background-color: aqua;
-    margin: 100px;
-    padding: 100px;
+  width: 25%;
+  height: 200px;
+  background-size: 50%;
+  background-position: center center;
+  position: relative;
+  margin-bottom: 30px;
+  display: table;
     }
 }
 .fh5co-project .project-grid .desc {
