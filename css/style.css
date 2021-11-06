@@ -647,11 +647,11 @@ h1, h2, h3, h4, h5, h6 {
   margin-right: 10px;
 }
 #fh5co-team .team-box .social-media li a {
-  color: rgba(255, 255, 255, 0.8);
+  color: #32c030;
 }
 #fh5co-team .team-box .social-media li a:hover, #fh5co-team .team-box .social-media li a:focus, #fh5co-team .team-box .social-media li a:active {
   text-decoration: none;
-  color: #8C7676 !important;
+  color: #f0f0f0 !important;
 }
 
 .section-heading {
@@ -728,7 +728,7 @@ h1, h2, h3, h4, h5, h6 {
   top: 0;
   left: 0;
   font-size: 22px;
-  color: #8C7676;
+  color: #23b820;
 }
 #fh5co-footer .social-media {
   margin: 0 0 30px 0;
@@ -742,7 +742,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-right: 10px;
 }
 #fh5co-footer .social-media li a {
-  color: #8C7676;
+  color: #23b820;
 }
 #fh5co-footer .social-media li a:hover, #fh5co-footer .social-media li a:focus, #fh5co-footer .social-media li a:active {
   text-decoration: none;
@@ -795,7 +795,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 #fh5co-footer #btn-submit {
   color: rgba(255, 255, 255, 0.9) !important;
-  background: #8C7676 !important;
+  background: #23b820 !important;
 }
 
 .btn {
@@ -812,17 +812,17 @@ h1, h2, h3, h4, h5, h6 {
   transition: 0.3s;
 }
 .btn.btn-primary {
-  background: #8C7676;
-  color: #fff;
+  background: #23b820;
+  color: #ffffff;
   border: none !important;
   border: 2px solid transparent !important;
 }
 .btn.btn-primary:hover, .btn.btn-primary:active, .btn.btn-primary:focus {
   box-shadow: none;
-  background: #8C7676;
+  background: #244e23;
 }
 .btn:hover, .btn:active, .btn:focus {
-  background: #393e46 !important;
+  background: #244e23 !important;
   color: #fff;
   outline: none !important;
 }

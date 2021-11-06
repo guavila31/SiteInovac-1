@@ -457,6 +457,7 @@
 }
 .icon-linkedin-square:before {
 	content: "\f08c";
+	background-color: aqua;
 }
 .icon-thumb-tack:before {
 	content: "\f08d";
